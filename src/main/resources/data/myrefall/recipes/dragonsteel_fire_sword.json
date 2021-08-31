@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:netherite_sword"
+    },
+    "addition": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_fire_sword"
+    }
+  }
+  

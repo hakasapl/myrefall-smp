@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:netherite_boots"
+    },
+    "addition": {
+      "item": "iceandfire:dragonsteel_ice_ingot"
+    },
+    "result": {
+      "item": "iceandfire:dragonsteel_ice_boots"
+    }
+  }
+  

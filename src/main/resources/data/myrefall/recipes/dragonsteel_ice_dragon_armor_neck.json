@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "iceandfire:dragonarmor_diamond_neck"
+    },
+    "addition": {
+      "item": "iceandfire:dragonsteel_ice_block"
+    },
+    "result": {
+      "item": "iceandfire:dragonarmor_dragonsteel_ice_neck"
+    }
+  }
+  
