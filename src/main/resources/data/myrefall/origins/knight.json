@@ -2,7 +2,12 @@
     "powers": [
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_smithing",
-        "myrefall:no_use_enchant"
+        "myrefall:no_use_enchant",
+        "myrefall:equip_night",
+        "myrefall:buff_more_damage",
+        "myrefall:buff_3_more_heart",
+        "myrefall:debuff_hunger",
+        "myrefall:debuff_slower_speed"
     ],
     "icon": "iceandfire:dragonsteel_ice_helmet",
     "order": 5,

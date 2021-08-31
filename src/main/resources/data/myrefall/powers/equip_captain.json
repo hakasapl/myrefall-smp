@@ -11,7 +11,7 @@
             "item": "minecraft:clock"
         }
     ],
-    "recurrent": true,
+    "recurrent": false,
     "name": "Photographer",
     "description": "You spawn with a camera even if you die."
 }

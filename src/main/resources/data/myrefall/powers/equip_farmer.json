@@ -5,7 +5,7 @@
             "item": "minecraft:iron_hoe"
         }
     ],
-    "recurrent": true,
+    "recurrent": false,
     "name": "Farmer",
     "description": "You spawn with a trusty hoe even if you die."
 }

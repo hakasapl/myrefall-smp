@@ -1,0 +1,14 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "spartanweaponry:longsword_iron"
+        },
+        {
+            "item": "spartanshields:shield_basic_iron"
+        }
+    ],
+    "recurrent": false,
+    "name": "Knight",
+    "description": "You spawn with a sword, and a shield."
+}

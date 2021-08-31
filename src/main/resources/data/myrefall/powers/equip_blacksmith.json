@@ -8,7 +8,7 @@
             "item": "minecraft:smithing_table"
         }
     ],
-    "recurrent": true,
+    "recurrent": false,
     "name": "Equipment",
     "description": "You spawn with a smithing table and anvil even after death."
 }
