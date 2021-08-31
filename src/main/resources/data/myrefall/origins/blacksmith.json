@@ -1,7 +1,7 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:high_tier_helmets"
+        "myrefall:buff_forge_dragonseeker"
     ],
     "icon": "iceandfire:dragonsteel_fire_ingot",
     "order": 1,

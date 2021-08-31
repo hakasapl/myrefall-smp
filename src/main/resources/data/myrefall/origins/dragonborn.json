@@ -1,9 +1,14 @@
 {
     "powers": [
         "myrefall:no_use_smithing",
-        "myrefall:more_dragon_damage",
-        "myrefall:less_dragon_damage_taken",
-        "myrefall:skyrim_music"
+        "myrefall:skyrim_music",
+        "myrefall:buff_more_dragon_damage_given",
+        "myrefall:buff_less_dragon_damage_taken",
+        "myrefall:buff_dragon_increases_hearts",
+        "myrefall:debuff_hunger",
+        "myrefall:debuff_break_speed",
+        "myrefall:debuff_no_light_armor",
+        "myrefall:debuff_yellow_bed"
     ],
     "icon": "iceandfire:dragonarmor_silver_head",
     "order": 3,

@@ -1,0 +1,18 @@
+{
+    "type": "origins:prevent_sleep",
+    "message": "This bed is far too ugly for my taste",
+    "block_condition": {
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:block",
+                "block": "minecraft:yellow_bed"
+            },
+            {
+                "type": "origins:block",
+                "block": "comforts:sleeping_bag_yellow"
+            }
+        ],
+        "inverted": true
+    }
+}
