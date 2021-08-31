@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "iceandfire:dragonsteel_ice_helmet",
+    "order": 5,
+    "impact": 1,
+    "name": "Knight",
+    "description": "A fierce warrior who is skilled at hand to hand combat."
+}

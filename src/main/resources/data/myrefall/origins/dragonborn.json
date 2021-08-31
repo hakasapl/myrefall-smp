@@ -1,10 +1,10 @@
 {
     "powers": [
-        "origins:recipe_dragonborn"
+        "myrefall:no_use_smithing"
     ],
     "icon": "iceandfire:dragonarmor_silver_head",
-    "order": 1,
+    "order": 3,
     "impact": 1,
     "name": "Dragonborn",
-    "description": "You share blood with your dragon foes. It is your destiny to slay dragons and take their soul. You are expected to lead the fight against powerful foes."
+    "description": "You share blood with your dragon foes. It is your destiny to slay dragons."
 }

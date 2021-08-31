@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "minecraft:splash_potion",
+    "order": 10,
+    "impact": 1,
+    "name": "Wiccan",
+    "description": "You're a dark being. Most people are afraid of you because you are unpredictable."
+}

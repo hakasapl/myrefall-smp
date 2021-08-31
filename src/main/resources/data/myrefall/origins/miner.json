@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "minecraft:netherite_pickaxe",
+    "order": 6,
+    "impact": 1,
+    "name": "Miner",
+    "description": "You are responsible for being underground to mine resources for the group."
+}

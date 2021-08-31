@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "spartanweaponry:longbow_leather",
+    "order": 7,
+    "impact": 1,
+    "name": "Ranger",
+    "description": "Tactile and agile, you jump around the world."
+}

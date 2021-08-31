@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "cavesandcliffs:skyglass",
+    "order": 2,
+    "impact": 1,
+    "name": "Captain",
+    "description": "You're the team leader. You are responsible for figuring out big picture attack plans, as well as driving the ship."
+}

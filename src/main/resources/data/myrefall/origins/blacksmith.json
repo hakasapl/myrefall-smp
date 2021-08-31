@@ -1,10 +1,11 @@
 {
     "powers": [
-        "myrefall:forge_dragonseeker"
+        "myrefall:no_use_dragonseeker",
+        "myrefall:high_tier_helmets"
     ],
     "icon": "iceandfire:dragonsteel_fire_ingot",
-    "order": 3,
+    "order": 1,
     "impact": 1,
     "name": "Blacksmith",
-    "description": "You're a skilled craftsman and blacksmith. You are responsible for gathering materials for weapons and armor, and you must provide backup equipment during expeditions. Mining is your responsibility. However, you can request that fighters bring you scales and blood for your creations."
+    "description": "You're a skilled craftsman and blacksmith. You are responsible for researching and creating powerful weapons and armor for use by your team."
 }

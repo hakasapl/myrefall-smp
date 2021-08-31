@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing"
+    ],
+    "icon": "create:cogwheel",
+    "order": 9,
+    "impact": 1,
+    "name": "Tinkerer",
+    "description": "You are ahead of your time. You are able to devise medieval automation."
+}

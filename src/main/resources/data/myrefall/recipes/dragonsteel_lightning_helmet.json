@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "addition": {
+    "item": "iceandfire:dragonsteel_lightning_ingot"
+  },
+  "result": {
+    "item": "iceandfire:dragonsteel_lightning_helmet"
+  }
+}
