@@ -8,7 +8,8 @@
         "myrefall:debuff_bad_attack",
         "myrefall:debuff_hunger",
         "myrefall:debuff_no_heavy_armor",
-        "origins:vegetarian"
+        "origins:vegetarian",
+        "origins:nether_spawn"
     ],
     "icon": "minecraft:splash_potion",
     "order": 10,

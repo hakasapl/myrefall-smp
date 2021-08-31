@@ -1,8 +1,7 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:no_use_smithing",
-        "myrefall:no_use_enchant"
+        "myrefall:no_use_smithing"
     ],
     "icon": "iceandfire:bestiary",
     "order": 8,

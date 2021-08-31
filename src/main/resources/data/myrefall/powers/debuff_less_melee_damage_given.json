@@ -1,0 +1,41 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "forge:weapons/ranged"
+            }
+          }
+        },
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "spartanweaponry:longbows"
+            }
+          }
+        },
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "spartanweaponry:heavy_crossbows"
+            }
+          }
+        }
+      ],
+      "inverted": true
+    },
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 0.5
+    }
+  }
+  

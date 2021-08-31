@@ -1,0 +1,13 @@
+{
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:fire_charge",
+    "cooldown": 2,
+    "hud_render": {
+        "should_render": false
+    },
+    "tag": "{pickup:0b}",
+    "key": {
+        "key": "key.attack",
+        "continuous": true
+    }
+}

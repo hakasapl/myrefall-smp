@@ -1,0 +1,17 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "spartanweaponry:longbow_wood"
+        },
+        {
+            "item": "minecraft:arrow",
+            "count": 25
+        },
+        {
+            "item": "antiqueatlas:empty_antique_atlas"
+        }
+    ],
+    "recurrent": false,
+    "hidden": true
+}

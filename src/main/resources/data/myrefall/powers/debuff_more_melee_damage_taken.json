@@ -1,0 +1,44 @@
+{
+  "type": "origins:modify_damage_taken",
+  "damage_condition": {
+    "type": "origins:attacker",
+    "entity_condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "forge:weapons/ranged"
+            }
+          }
+        },
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "spartanweaponry:longbows"
+            }
+          }
+        },
+        {
+          "type": "origins:using_item",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "spartanweaponry:heavy_crossbows"
+            }
+          }
+        }
+      ],
+      "inverted": true
+    }
+  },
+  "modifier": {
+    "name": "Take more damage from melee attacks",
+    "operation": "multiply_total",
+    "value": 2.0
+  }
+}
