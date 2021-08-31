@@ -1,0 +1,22 @@
+{
+    "powers": [
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing",
+        "myrefall:no_use_enchant",
+        "myrefall:no_use_smoker",
+        "myrefall:no_use_blast_furnace",
+        "myrefall:no_use_alchemy",
+        "myrefall:equip_ranger",
+        "myrefall:buff_range_weapon_damage",
+        "myrefall:buff_better_jump",
+        "myrefall:buff_faster_in_forest",
+        "myrefall:debuff_no_heavy_armor",
+        "myrefall:debuff_less_melee_damage_given",
+        "myrefall:debuff_more_melee_damage_taken"
+    ],
+    "icon": "spartanweaponry:longbow_leather",
+    "order": 7,
+    "impact": 1,
+    "name": "Ranger",
+    "description": "Tactile and agile, you jump around the world."
+}

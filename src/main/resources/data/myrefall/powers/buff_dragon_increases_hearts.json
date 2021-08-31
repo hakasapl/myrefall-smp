@@ -4,7 +4,7 @@
     "type": "origins:apply_effect",
     "effect": {
       "effect": "minecraft:absorption",
-      "duration": 2000,
+      "duration": 8000,
       "amplifier": 1
     }
   },

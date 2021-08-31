@@ -3,8 +3,11 @@
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_smithing",
         "myrefall:no_use_enchant",
+        "myrefall:no_use_blast_furnace",
+        "myrefall:no_use_smoker",
+        "myrefall:no_use_alchemy",
         "myrefall:equip_knight",
-        "myrefall:buff_more_damage",
+        "myrefall:buff_melee_damage",
         "myrefall:buff_3_more_heart",
         "myrefall:debuff_hunger",
         "myrefall:debuff_slower_speed"

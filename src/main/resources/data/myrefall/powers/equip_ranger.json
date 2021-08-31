@@ -6,7 +6,7 @@
         },
         {
             "item": "minecraft:arrow",
-            "count": 25
+            "amount": 25
         },
         {
             "item": "antiqueatlas:empty_antique_atlas"

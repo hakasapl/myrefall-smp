@@ -1,6 +1,6 @@
 {
   "type": "origins:modify_damage_dealt",
-  "condition": {
+  "damage_condition": {
     "type": "origins:using_item",
     "item_condition": {
       "type": "origins:ingredient",

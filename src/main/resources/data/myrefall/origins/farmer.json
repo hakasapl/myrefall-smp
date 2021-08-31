@@ -3,9 +3,11 @@
         "myrefall:no_use_smithing",
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_enchant",
+        "myrefall:no_use_blast_furnace",
+        "myrefall:no_use_alchemy",
         "myrefall:equip_farmer",
         "myrefall:buff_hoe_damage",
-        "myrefall:debuff_lower_health"
+        "myrefall:debuff_1_less_heart"
     ],
     "icon": "minecraft:wheat",
     "order": 4,

@@ -2,7 +2,10 @@
     "powers": [
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_smithing",
-        "myrefall:no_use_enchant"
+        "myrefall:no_use_enchant",
+        "myrefall:no_use_blast_furnace",
+        "myrefall:no_use_smoker",
+        "myrefall:no_use_alchemy"
     ],
     "icon": "minecraft:dirt",
     "order": 11,

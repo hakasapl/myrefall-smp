@@ -2,7 +2,9 @@
     "powers": [
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_enchant",
-        "myrefall:buff_forge_dragonseeker"
+        "myrefall:no_use_smoker",
+        "myrefall:no_use_alchemy",
+        "myrefall:debuff_slower_speed"
     ],
     "icon": "iceandfire:dragonsteel_fire_ingot",
     "order": 1,
