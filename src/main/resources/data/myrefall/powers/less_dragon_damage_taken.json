@@ -1,6 +1,6 @@
 {
   "type": "origins:modify_damage_taken",
-  "condition": {
+  "damage_condition": {
     "type": "origins:attacker",
     "entity_condition": {
       "type": "origins:or",
@@ -23,6 +23,6 @@
   "modifier": {
     "name": "Take half as much damage from dragons",
     "operation": "multiply_total",
-    "value": 0.5
+    "value": 0.25
   }
 }

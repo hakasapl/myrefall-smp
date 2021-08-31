@@ -21,6 +21,6 @@
       }
     ]
   },
-  "cooldown": 5000,
+  "cooldown": 0,
   "hidden": true
 }
