@@ -8,9 +8,7 @@
         "myrefall:no_use_alchemy",
         "myrefall:debuff_prevent_sleep"
     ],
-    "icon": "create:cog",
-    "order": 11,
-    "impact": 1,
-    "name": "Tinkerer",
-    "description": "To put it simply, you tinker! You are ahead of your time."
+    "icon": "create:cogwheel",
+    "order": 9,
+    "impact": 1
 }

@@ -12,6 +12,5 @@
         }
     ],
     "recurrent": false,
-    "name": "Photographer",
-    "description": "You spawn with a camera even if you die."
+    "hidden": true
 }

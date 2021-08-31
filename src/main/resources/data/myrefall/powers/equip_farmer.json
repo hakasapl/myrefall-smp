@@ -6,6 +6,5 @@
         }
     ],
     "recurrent": false,
-    "name": "Farmer",
-    "description": "You spawn with a trusty hoe even if you die."
+    "hidden": true
 }

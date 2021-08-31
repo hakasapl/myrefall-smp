@@ -17,7 +17,5 @@
     ],
     "icon": "spartanweaponry:longbow_leather",
     "order": 7,
-    "impact": 1,
-    "name": "Ranger",
-    "description": "Tactile and agile, you jump around the world."
+    "impact": 1
 }

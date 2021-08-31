@@ -10,7 +10,5 @@
     ],
     "icon": "iceandfire:dragonsteel_fire_ingot",
     "order": 1,
-    "impact": 1,
-    "name": "Blacksmith",
-    "description": "You're a skilled craftsman and blacksmith. You are responsible for researching and creating powerful weapons and armor for use by your team."
+    "impact": 1
 }

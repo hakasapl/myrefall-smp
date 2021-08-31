@@ -12,7 +12,5 @@
     ],
     "icon": "cavesandcliffs:spyglass",
     "order": 2,
-    "impact": 1,
-    "name": "Captain",
-    "description": "You're the team leader. You are responsible for figuring out big picture attack plans, as well as driving the ship."
+    "impact": 1
 }

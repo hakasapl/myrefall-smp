@@ -10,7 +10,5 @@
     ],
     "icon": "minecraft:dirt",
     "order": 11,
-    "impact": 1,
-    "name": "Generic",
-    "description": "Filler role for people that want to join that don't have an active role."
+    "impact": 1
 }

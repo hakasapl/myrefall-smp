@@ -1,0 +1,36 @@
+{
+    "layer.myrefall.class.name": "Role",
+    
+    "origin.myrefall.blacksmith.name": "Blacksmith",
+    "origin.myrefall.blacksmith.description": "You're a skilled craftsman and blacksmith. You are responsible for researching and creating powerful weapons and armor for use by your team.",
+
+    "origin.myrefall.captain.name": "Captain",
+    "origin.myrefall.captain.description": "You're the team leader. You are responsible for figuring out big picture attack plans, as well as driving the ship.",
+
+    "origin.myrefall.dragonborn.name": "Dragonborn",
+    "origin.myrefall.dragonborn.description": "You share blood with your dragon foes. It is your destiny to slay dragons.",
+
+    "origin.myrefall.farmer.name": "Farmer",
+    "origin.myrefall.farmer.description": "You need to provide food and water to the team by any means necessary.",
+
+    "origin.myrefall.generic.name": "Generic",
+    "origin.myrefall.generic.description": "Filler role for people that want to join that don't have an active role.",
+
+    "origin.myrefall.knight.name": "Knight",
+    "origin.myrefall.knight.description": "A fierce warrior who is skilled at hand to hand combat.",
+
+    "origin.myrefall.miner.name": "Miner",
+    "origin.myrefall.miner.description": "You are responsible for being underground to mine resources for the group.",
+
+    "origin.myrefall.ranger.name": "Ranger",
+    "origin.myrefall.ranger.description": "Tactile and agile, you jump around the world.",
+
+    "origin.myrefall.tinkerer.name": "Tinkerer",
+    "origin.myrefall.tinkerer.description": "To put it simply, you tinker! You are ahead of your time.",
+
+    "origin.myrefall.witch.name": "Witch",
+    "origin.myrefall.witch.description": "You're a dark being who likes to help out.",
+
+    "origin.origin.race_drake.name": "Drake",
+    "origin.origin.race_drake.description": "A small dragon who is friendly to humans"
+}

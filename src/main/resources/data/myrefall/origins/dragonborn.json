@@ -17,7 +17,5 @@
     ],
     "icon": "iceandfire:dragonarmor_silver_head",
     "order": 3,
-    "impact": 1,
-    "name": "Dragonborn",
-    "description": "You share blood with your dragon foes. It is your destiny to slay dragons."
+    "impact": 1
 }

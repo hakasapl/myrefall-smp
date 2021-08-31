@@ -15,7 +15,5 @@
     ],
     "icon": "minecraft:dragon_head",
     "order": 6,
-    "impact": 1,
-    "name": "Drake",
-    "description": "A small dragon who is friendly to humans"
+    "impact": 1
 }
