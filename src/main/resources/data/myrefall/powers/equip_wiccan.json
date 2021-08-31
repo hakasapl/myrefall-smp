@@ -6,11 +6,11 @@
         },
         {
             "item": "minecraft:tipped_arrow{Potion:'minecraft:regeneration'}",
-            "count": 10
+            "amount": 10
         },
         {
             "item": "minecraft:tipped_arrow{Potion:'minecraft:healing'}",
-            "count": 10
+            "amount": 10
         }
     ],
     "recurrent": false,

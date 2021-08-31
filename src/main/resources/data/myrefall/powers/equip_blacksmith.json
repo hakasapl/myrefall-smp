@@ -9,6 +9,5 @@
         }
     ],
     "recurrent": false,
-    "name": "Equipment",
-    "description": "You spawn with a smithing table and anvil even after death."
+    "hidden": true
 }

@@ -1,0 +1,8 @@
+{
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+    "name": "Take half as much damage from dragons",
+    "operation": "multiply_total",
+    "value": 0.75
+  }
+}

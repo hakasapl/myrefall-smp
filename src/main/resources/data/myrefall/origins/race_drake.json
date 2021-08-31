@@ -11,7 +11,7 @@
         "origins:nether_spawn",
         "myrefall:debuff_gold_crazy",
         "origins:carnivore",
-        "myrefall:debuff_poison_in_water"
+        "origins:water_vulnerability"
     ],
     "icon": "minecraft:dragon_head",
     "order": 6,

@@ -10,7 +10,9 @@
         "myrefall:knight",
         "myrefall:miner",
         "myrefall:ranger",
-        "myrefall:wiccan"
+        "myrefall:tinkerer",
+        "myrefall:wiccan",
+        "myrefall:generic"
     ],
     "name": "Choose your role"
 }

@@ -6,9 +6,11 @@
         "myrefall:no_use_blast_furnace",
         "myrefall:no_use_smoker",
         "myrefall:no_use_alchemy",
+        "myrefall:no_harvest_crops",
         "myrefall:equip_knight",
         "myrefall:buff_melee_damage",
         "myrefall:buff_3_more_heart",
+        "myrefall:buff_less_damage_taken",
         "myrefall:debuff_hunger",
         "myrefall:debuff_slower_speed"
     ],

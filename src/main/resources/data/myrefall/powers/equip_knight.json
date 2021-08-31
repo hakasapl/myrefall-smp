@@ -9,6 +9,5 @@
         }
     ],
     "recurrent": false,
-    "name": "Knight",
-    "description": "You spawn with a sword, and a shield."
+    "hidden": true
 }

@@ -6,11 +6,11 @@
         "myrefall:no_use_blast_furnace",
         "myrefall:no_use_smoker",
         "myrefall:no_use_alchemy",
-        "myrefall:no_harvest_crops"
+        "myrefall:debuff_prevent_sleep"
     ],
-    "icon": "minecraft:dirt",
+    "icon": "create:cog",
     "order": 11,
     "impact": 1,
-    "name": "Generic",
-    "description": "Filler role for people that want to join that don't have an active role."
+    "name": "Tinkerer",
+    "description": "To put it simply, you tinker! You are ahead of your time."
 }
