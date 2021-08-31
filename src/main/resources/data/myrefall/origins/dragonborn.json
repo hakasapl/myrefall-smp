@@ -1,6 +1,9 @@
 {
     "powers": [
-        "myrefall:no_use_smithing"
+        "myrefall:no_use_smithing",
+        "myrefall:more_dragon_damage",
+        "myrefall:less_dragon_damage_taken",
+        "myrefall:skyrim_music"
     ],
     "icon": "iceandfire:dragonarmor_silver_head",
     "order": 3,

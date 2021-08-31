@@ -1,0 +1,14 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:anvil"
+        },
+        {
+            "item": "minecraft:smithing_table"
+        }
+    ],
+    "recurrent": true,
+    "name": "Equipment",
+    "description": "You spawn with a smithing table and anvil even after death."
+}

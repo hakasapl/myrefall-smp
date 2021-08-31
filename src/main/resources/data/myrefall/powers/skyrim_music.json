@@ -1,0 +1,26 @@
+{
+  "type": "origins:self_action_on_hit",
+  "entity_action": {
+    "type": "origins:play_sound",
+    "sound": "myrefall:skyrim"
+  },
+  "target_condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:entity_type",
+        "entity_type": "iceandfire:fire_dragon"
+      },
+      {
+        "type": "origins:entity_type",
+        "entity_type": "iceandfire:ice_dragon"
+      },
+      {
+        "type": "origins:entity_type",
+        "entity_type": "iceandfire:lightning_dragon"
+      }
+    ]
+  },
+  "cooldown": 5000,
+  "hidden": true
+}

@@ -1,0 +1,11 @@
+{
+    "skyrim": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "myrefall:skyrim",
+          "volume": 0.8
+        }
+      ]
+    }
+}
