@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "name": "Hostile mobs are less interested in the feeble like you - so you take less damage.",
+        "operation": "multiply_total",
+        "value": -0.3
+    },
+    "name": "Not worth the effort",
+    "description": "Hostile mobs are less interested in the feeble like you. You take less damage from hostile mobs"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "camera:camera"
+        },
+        {
+            "item": "minecraft:paper",
+            "amount": 16
+        }
+    ],
+    "recurrent": true,
+    "name": "Photographer",
+    "description": "You spawn with a camera even if you die."
+}
