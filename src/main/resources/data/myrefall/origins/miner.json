@@ -2,7 +2,12 @@
     "powers": [
         "myrefall:no_use_dragonseeker",
         "myrefall:no_use_smithing",
-        "myrefall:no_use_enchant"
+        "myrefall:no_use_enchant",
+        "myrefall:equip_miner",
+        "myrefall:buff_pickaxe_damage",
+        "myrefall:buff_nv_underground",
+        "origins:carnivore",
+        "myrefall:debuff_less_damage_normal_weapons"
     ],
     "icon": "minecraft:netherite_pickaxe",
     "order": 6,

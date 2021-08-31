@@ -1,0 +1,31 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:using_item",
+        "item_condition": {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "forge:tools/pickaxes"
+          }
+        }
+      },
+      {
+        "type": "origins:using_item",
+        "item_condition": {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "tag": "spartanweaponry:battle_hammers"
+          }
+        }
+      }
+    ],
+    "inverted": true
+  },
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 0.5
+  }
+}

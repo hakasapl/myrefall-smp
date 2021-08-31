@@ -5,12 +5,12 @@
     "item_condition": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "forge:tools/hoes"
+        "tag": "forge:tools/pickaxes"
       }
     }
   },
   "modifier": {
     "operation": "addition",
-    "value": 8.0
+    "value": 6.0
   }
 }

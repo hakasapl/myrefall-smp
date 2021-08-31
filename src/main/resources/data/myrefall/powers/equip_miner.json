@@ -1,0 +1,10 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:iron_pickaxe"
+        }
+    ],
+    "recurrent": false,
+    "hidden": true
+}
