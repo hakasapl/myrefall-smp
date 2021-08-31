@@ -1,0 +1,19 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:bow"
+        },
+        {
+            "item": "minecraft:tipped_arrow{Potion:'minecraft:regeneration'}",
+            "count": 10
+        },
+        {
+            "item": "minecraft:tipped_arrow{Potion:'minecraft:healing'}",
+            "count": 10
+        }
+    ],
+    "recurrent": false,
+    "name": "Healer",
+    "description": "Sage I need a heal"
+}

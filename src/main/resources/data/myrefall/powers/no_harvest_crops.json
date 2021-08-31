@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_harvest",
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "forge:crops"
+    },
+    "allow": false,
+    "hidden": true
+}

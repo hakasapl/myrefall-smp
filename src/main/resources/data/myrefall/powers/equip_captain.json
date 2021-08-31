@@ -2,11 +2,13 @@
     "type": "origins:starting_equipment",
     "stacks": [
         {
-            "item": "camera:camera"
+            "item": "cavesandcliffs:spyglass"
         },
         {
-            "item": "minecraft:paper",
-            "amount": 16
+            "item": "minecraft:compass"
+        },
+        {
+            "item": "minecraft:clock"
         }
     ],
     "recurrent": true,

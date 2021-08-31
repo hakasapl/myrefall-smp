@@ -1,11 +1,18 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:no_use_smithing"
+        "myrefall:no_use_smithing",
+        "myrefall:equip_wiccan",
+        "myrefall:buff_1_more_heart",
+        "myrefall:buff_more_slots",
+        "myrefall:debuff_bad_attack",
+        "myrefall:debuff_hunger",
+        "myrefall:debuff_no_heavy_armor",
+        "origins:vegetarian"
     ],
     "icon": "minecraft:splash_potion",
     "order": 10,
     "impact": 1,
     "name": "Wiccan",
-    "description": "You're a dark being. Most people are afraid of you because you are unpredictable."
+    "description": "You're a dark being who likes to help out."
 }

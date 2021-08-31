@@ -1,10 +1,8 @@
 {
     "powers": [
-        "origins:fire_immunity",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air",
-        "myrefall:no_use_smithing"
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_smithing",
+        "myrefall:no_use_enchant"
     ],
     "icon": "iceandfire:bestiary",
     "order": 8,

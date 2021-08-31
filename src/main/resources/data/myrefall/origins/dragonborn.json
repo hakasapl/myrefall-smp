@@ -1,6 +1,8 @@
 {
     "powers": [
         "myrefall:no_use_smithing",
+        "myrefall:no_harvest_crops",
+        "myrefall:no_use_enchant",
         "myrefall:skyrim_music",
         "myrefall:buff_more_dragon_damage_given",
         "myrefall:buff_less_dragon_damage_taken",

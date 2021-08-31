@@ -1,0 +1,9 @@
+{
+    "type": "origins:inventory",
+    "name": "Apothecary Satchel",
+    "drop_on_death": false,
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": false
+    }
+  }

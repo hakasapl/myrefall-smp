@@ -1,7 +1,9 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:no_use_smithing"
+        "myrefall:no_use_smithing",
+        "myrefall:no_use_enchant",
+        "equip_captain"
     ],
     "icon": "cavesandcliffs:skyglass",
     "order": 2,

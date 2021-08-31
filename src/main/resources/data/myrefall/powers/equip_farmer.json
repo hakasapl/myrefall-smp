@@ -1,0 +1,11 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:iron_hoe"
+        }
+    ],
+    "recurrent": true,
+    "name": "Farmer",
+    "description": "You spawn with a trusty hoe even if you die."
+}

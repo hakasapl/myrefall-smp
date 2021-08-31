@@ -1,10 +1,11 @@
 {
     "powers": [
-        "origins:fire_immunity",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air",
-        "myrefall:no_use_smithing"
+        "myrefall:no_use_smithing",
+        "myrefall:no_use_dragonseeker",
+        "myrefall:no_use_enchant",
+        "myrefall:equip_farmer",
+        "myrefall:buff_hoe_damage",
+        "myrefall:debuff_lower_health"
     ],
     "icon": "minecraft:wheat",
     "order": 4,
