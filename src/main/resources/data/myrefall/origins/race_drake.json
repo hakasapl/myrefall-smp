@@ -6,12 +6,13 @@
         "myrefall:buff_3_more_heart",
         "myrefall:buff_nv_underground",
         "myrefall:buff_lava_swim_speed",
+        "myrefall:buff_lava_vision",
         "myrefall:debuff_no_armor",
         "myrefall:debuff_yellow_bed",
         "origins:nether_spawn",
         "myrefall:debuff_gold_crazy",
         "origins:carnivore",
-        "origins:water_vulnerability"
+        "myrefall:debuff_water_damage"
     ],
     "icon": "minecraft:dragon_head",
     "order": 6,

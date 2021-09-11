@@ -1,17 +1,6 @@
 {
-  "type": "origins:action_over_time",
-  "entity_action": {
-    "type": "origins:apply_effect",
-    "effect": {
-      "effect": "minecraft:night_vision",
-      "duration": 400,
-      "amplifier": 1,
-      "is_ambient": true,
-      "show_particles": false,
-      "show_icon": false
-    }
-  },
-  "interval": 40,
+  "type": "origins:night_vision",
+  "strength": 0.5,
   "condition": {
     "type": "origins:exposed_to_sun",
     "inverted": true
