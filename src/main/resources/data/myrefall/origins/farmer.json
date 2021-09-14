@@ -7,6 +7,7 @@
         "myrefall:no_use_alchemy",
         "myrefall:equip_farmer",
         "myrefall:buff_no_poison",
+        "myrefall:buff_hoe_damage",
         "myrefall:debuff_1_less_heart"
     ],
     "icon": "minecraft:wheat",

@@ -3,8 +3,17 @@
   "condition": {
     "type": "origins:on_block",
     "block_condition": {
-      "type": "origins:block",
-      "block": "minecraft:gold_block"
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:block",
+          "block": "minecraft:gold_block"
+        },
+        {
+          "type": "origins:block",
+          "block": "iceandfire:gold_pile"
+        }
+      ]
     }
   },
   "entity_action": {
