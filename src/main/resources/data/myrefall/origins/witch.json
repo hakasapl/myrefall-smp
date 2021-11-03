@@ -8,7 +8,8 @@
         "myrefall:buff_more_slots",
         "myrefall:debuff_bad_attack",
         "myrefall:debuff_hunger",
-        "myrefall:debuff_no_heavy_armor",
+        "myrefall:buff_nether_friend",
+        "myrefall:buff_immune_wither",
         "origins:vegetarian"
     ],
     "icon": "minecraft:splash_potion",

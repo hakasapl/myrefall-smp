@@ -1,0 +1,91 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:or",
+        "conditions":
+        [
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_group",
+                    "group": "undead"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:magma_cube"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "alexsmobs:dropbear"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "alexsmobs:bone_serpent"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "alexsmobs:straddler"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:hoglin"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "alexsmobs:soul_vulture"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:blaze"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "quark:foxhound"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:piglin_brute"
+                }
+            },
+            {
+                "type": "origins:attacker",
+                "entity_condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:piglin"
+                }
+            }
+        ]
+    },
+    "modifier": {
+        "name": "Undead pets",
+        "operation": "multiply_total",
+        "value": -1
+    }
+}

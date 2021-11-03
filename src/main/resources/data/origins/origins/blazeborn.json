@@ -1,13 +1,13 @@
 {
 	"powers": [
 		"origins:fire_immunity",
-		"origins:nether_spawn",
 		"origins:burning_wrath",
 		"origins:hotblooded",
 		"myrefall:debuff_water_damage",
 		"origins:flame_particles",
 		"origins:damage_from_snowballs",
-		"origins:damage_from_potions"
+		"origins:damage_from_potions",
+		"myrefall:buff_lava_swim_speed"
 	],
 	"icon": {
 		"item": "minecraft:blaze_powder"

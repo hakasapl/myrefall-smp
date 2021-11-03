@@ -1,10 +1,8 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:no_use_enchant",
         "myrefall:no_use_smoker",
         "myrefall:no_use_alchemy",
-        "myrefall:no_harvest_crops",
         "myrefall:equip_blacksmith",
         "myrefall:debuff_slower_speed"
     ],

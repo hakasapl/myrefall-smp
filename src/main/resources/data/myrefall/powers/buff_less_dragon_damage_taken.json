@@ -1,28 +1,37 @@
 {
   "type": "origins:modify_damage_taken",
   "damage_condition": {
-    "type": "origins:attacker",
-    "entity_condition": {
-      "type": "origins:or",
-      "conditions": [
-        {
-          "type": "origins:entity_type",
-          "entity_type": "iceandfire:fire_dragon"
-        },
-        {
-          "type": "origins:entity_type",
-          "entity_type": "iceandfire:ice_dragon"
-        },
-        {
-          "type": "origins:entity_type",
-          "entity_type": "iceandfire:lightning_dragon"
+    "type": "origins:or",
+    "conditions":
+    [
+      {
+        "type": "origins:attacker",
+        "entity_condition": {
+          "type": "origins:or",
+          "conditions": [
+            {
+              "type": "origins:entity_type",
+              "entity_type": "iceandfire:fire_dragon"
+            },
+            {
+              "type": "origins:entity_type",
+              "entity_type": "iceandfire:ice_dragon"
+            },
+            {
+              "type": "origins:entity_type",
+              "entity_type": "iceandfire:lightning_dragon"
+            }
+          ]
         }
-      ]
-    }
+      },
+      {
+        "type": "origins:fire"
+      }
+    ]
   },
   "modifier": {
     "name": "Take half as much damage from dragons",
     "operation": "multiply_total",
-    "value": 0.25
+    "value": -1
   }
 }

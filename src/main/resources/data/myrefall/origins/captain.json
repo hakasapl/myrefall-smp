@@ -1,14 +1,11 @@
 {
     "powers": [
         "myrefall:no_use_dragonseeker",
-        "myrefall:no_use_smithing",
-        "myrefall:no_use_enchant",
-        "myrefall:no_use_smoker",
-        "myrefall:no_use_blast_furnace",
-        "myrefall:no_use_alchemy",
-        "myrefall:no_harvest_crops",
         "myrefall:equip_captain",
-        "myrefall:buff_damage"
+        "myrefall:buff_damage",
+        "origins:water_vision",
+        "origins:swim_speed",
+        "myrefall:buff_range_weapon_damage"
     ],
     "icon": "cavesandcliffs:spyglass",
     "order": 2,
