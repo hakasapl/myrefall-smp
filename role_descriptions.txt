@@ -1,0 +1,147 @@
+Blacksmith
+
+You are a skilled craftsman. Your team depends on you for weapons and armor made of the finest metal in the world. You are responsible for creating these weapons, but also providing backups in battle. If needed, you can also go mining to gather additional ores. You should also assist the captain with crafting sailboats.
+
+Buffs
+You spawn with an anvil and a smithing table
+You can use a blast furnace/anvil
+You can craft higher tier items (netherite, dragonsteel, dragonseeker)
+Debuffs
+You move slower than the rest of your team
+
+Captain
+
+You are the captain of the ship. You must delegate the team about expeditions and fights. As the captain, you must be the first one in a fight, and the last one out. You are also responsible for maintaining and steering ships.
+
+Buffs
+You deal more damage
+Spawn with telescope, clock, and compass
+Debuffs
+
+Dragonborn
+
+You were born with the blood of dragons. Your destiny is to kill dragons and take their soul.
+
+Buffs
+Much more damage on dragons
+Take less damage from dragons
+You can use dragonseekers
+Natural resistance to knockback
+You gain absorption after killing a dragon
+Debuffs
+You lose hunger faster
+Slower mining speeds
+Deal very little knockback
+Can’t wear light armor
+Can only sleep on yellow beds (it looks like gold)
+
+Farmer
+
+You are responsible for farming crops and cattle. You must provide food and water to the rest of your team. Make sure you have a good supply going into battle.
+
+Buffs
+You spawn with a hoe
+Can harvest crops
+Resistant to hunger effects
+You do significantly more damage with a hoe
+You can get more yield from crops
+More meat from killing animals
+Crops grow fast-er
+Crops planted grow faster
+harvested/cooked food are more effective
+
+Debuffs
+You are slower on foot but faster on horse
+Lower overall health
+
+Wiccan
+You are responsible for keeping your team healthy by crafting potions/ other necessities for keeping your team alive and providing support in battles. You are a Wiccan as well, you have the ability to enchant items for your team. When going into battle, you are not going to be on the frontlines but rather assisting your team from the back lines. 
+
+Buffs
+Have an extra heart of hp
+Have extra inventory space for potions/ have potions stack
+Able to enchant
+Can harvest crops
+Spawn w bow and 10 regeneration/healing arrows
+See other players health/ see where on a map team is
+Debuffs
+Very weak when attacking mobs
+Hunger drains faster
+Cannot wear heavy armor
+Doesn't eat meat
+Spawns in nether (from race blazeborn)
+
+Knight
+
+Buffs
+Spawn with sword and shield
+More melee damage
+You take less damage
+Heavy armor is more effective
+3 More Hearts
+Debuffs
+Slower movement speed
+Eat more food
+
+Miner
+
+You are accustomed to the darkness of the caves. You are responsible for mining the precious gems and metals from the earth for your team. You enjoy shiny rocks. You are deathly afraid of kangaroos.
+
+Buffs
+Spawn with pickaxe
+You deal more damage while holding a pickaxe/battle hammer
+You gain night vision inside caves
+Debuffs
+You don't like vegetables
+You deal less damage with regular weapons
+
+Ranger
+
+ Your job is to explore, hunt, gather, fight from range, and spy? Nature is your friend, you are an expert tracker and hunter. You have lived among the forests and know your way around them. You have lived your life in a fit and dietary lifestyle so you can always be ready for a run or a fight   
+Buffs
+Spawn with long bow and 25 arrows, atlas
+Range weapons do extra damage
+You jump better
+Run faster in forest biomes and plain biomes 
+Gain extra hunger
+Extra drops from passive mobs like cows etc
+Debuffs 
+Can not wear heavy armor
+More susceptible to melee attacks
+Deal less melee damage 
+
+Race - drake the drake is a small dragon type creature who is fast and agile
+
+Buffs
+Can shoot fire charges or start fire with click 
+Can not burn 
+Start with "claws" (unarmed attacked better)
+Better dark vision
+3 extra hearts
+Swim faster in lava 
+ Debuffs
+Gain poison when in water
+Can not wear armor
+Potions have mixed effects (dragon liver)
+Gains blind on solid gold
+Spawns in nether
+only eats meat
+
+Tinkerer
+
+You have a knack for inventing and making mechanical machines. You are responsible for making innovative mechanisms to help your team and improve the settlement. You have a strong sense of item organization.
+
+Buffs
+You need less hunger
+Debuffs
+You can't sleep, (power naps only)
+
+
+Big Mods
+Ice and Fire
+Alex’s Mobs
+Astral Sorcery
+Create mod
+Botania
+Farmer’s Delight
+Bewitchment
