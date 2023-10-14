@@ -6,6 +6,7 @@
         "origins:water_vision",
         "origins:swim_speed",
         "myrefall:buff_range_weapon_damage"
+        "myrefall:buff_resisatnce_player_proximity"
     ],
     "icon": "cavesandcliffs:spyglass",
     "order": 2,
