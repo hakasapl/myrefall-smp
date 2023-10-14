@@ -11,6 +11,8 @@
         "myrefall:buff_nv_underground",
         "origins:carnivore",
         "myrefall:debuff_less_damage_normal_weapons"
+        "myrefall:buff_temperature_resistance"
+        "myrefall:buff_haste_after_ore"
     ],
     "icon": "minecraft:netherite_pickaxe",
     "order": 6,
